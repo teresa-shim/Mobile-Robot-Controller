@@ -1,0 +1,2 @@
+C:\Users\byeonghun\Documents\SE2015\SE2015\RobotControllerUI\RobotControllerUI\bin\Debug\RobotControllerUI.exe.config
+C:\Users\byeonghun\Documents\SETermProject\Mobile-Robot-Controller\RobotControllerUI\RobotControllerUI\bin\Debug\RobotControllerUI.exe.config
